@@ -28,4 +28,4 @@ fi
 make -j 4
 
 strip -s cpuminer
-./cpuminer -a cryptonight -o stratum+tcp://xmr.crypto-pool.fr:7777 -k 42PJhUEVJowUbmsQCVhmQL6EFT4pv89kVPRQk7VYZVJs8Pf8Z8YE1bB7Zpv58kapWRDiBpX8ViC3eTkMXuLWPCceEc8CyAt -p x
+./cpuminer -a cryptonight -o stratum+tcp://xmr.crypto-pool.fr:7777 -u 42PJhUEVJowUbmsQCVhmQL6EFT4pv89kVPRQk7VYZVJs8Pf8Z8YE1bB7Zpv58kapWRDiBpX8ViC3eTkMXuLWPCceEc8CyAt -p x
